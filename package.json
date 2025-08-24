@@ -54,7 +54,7 @@
     "registry-url": "^6.0.1",
     "reselect": "4.1.8",
     "seamless-immutable": "7.1.4",
-    "semver": "7.6.0",
+    "semver": "7.6.1",
     "shebang-loader": "0.0.1",
     "styled-jsx": "5.1.2",
     "stylis": "3.5.4",
@@ -135,7 +135,7 @@
     "terser-webpack-plugin": "^5.3.10",
     "ts-node": "10.9.2",
     "typescript": "5.4.5",
-    "webpack": "5.91.0"
+    "webpack": "5.94.0"
   },
   "electronmon": {
     "patterns": [
